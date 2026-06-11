@@ -14,7 +14,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ah7zYsBU)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%235865F2.svg?style=for-the-badge&logo=WhatsApp&logoColor=green)](https://discord.gg/ah7zYsBU)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%235865.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://discord.gg/ah7zYsBU)
 
 Comunidad dedicada a aprender y compartir conocimientos en programación y tecnología. Estamos aquí para aprender juntos, compartir experiencias, resolver desafíos y ayudar a cada miembro para que alcance sus metas.
 

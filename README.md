@@ -37,5 +37,9 @@ Me gusta transformar ideas en soluciones funcionales, explorar nuevas tecnologí
 ![GIT](https://img.shields.io/badge/GIT-F03C2E.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## Las estadisticas del repositorio
+
+![Luis Ozuna GitHub stats](https://github-readme-stats.vercel.app/api?username=ozunaluis872-png&show_icons=true&theme=transparent) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozunaluis872-png&layout=compact&theme=transparent)
 
 

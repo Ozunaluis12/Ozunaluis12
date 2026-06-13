@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luis.ozuna_19/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%235865F.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/573004177979?text=Hola%20Luis,%20vi%20tu%20portafolio%20y%20estoy%20interesado%20en%20desarrollar%20un%20proyecto%20de%20software.%20Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20los%20servicios%20que%20ofreces,%20tu%20experiencia%20y%20c%C3%B3mo%20podr%C3%ADamos%20colaborar%20para%20llevar%20esta%20idea%20a%20cabo.%20%C2%BFTienes%20disponibilidad%20para%20una%20llamada%20o%20reuni%C3%B3n?
 )
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/829740032716963901)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@luisozuna2845)
 
 

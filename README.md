@@ -42,3 +42,5 @@ Me gusta transformar ideas en soluciones funcionales, explorar nuevas tecnologí
 
 ![Top Langs](https://github-readme-stats-ochre-tau-67.vercel.app/api/top-langs/?username=Ozunaluis12&layout=compact&theme=transparent&hide_border=true&langs_count=10&count_private=true)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ozunaluis12&theme=transparent&hide_border=true)
+

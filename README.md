@@ -44,3 +44,7 @@ Me gusta transformar ideas en soluciones funcionales, explorar nuevas tecnologí
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ozunaluis12&theme=transparent&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ozunaluis12&theme=transparent&hide_border=true&bg_color=00000000)
+
+![Trophies](https://github-trophy.vercel.app/?username=Ozunaluis12&theme=onedark&no-frame=true&row=2&column=4)
+

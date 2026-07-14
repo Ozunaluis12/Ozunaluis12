@@ -38,7 +38,7 @@ Me gusta transformar ideas en soluciones funcionales, explorar nuevas tecnologí
 
 ## Las estadisticas del repositorio
 
-![Luis Ozuna GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ozunaluis12&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Luis Ozuna GitHub stats](https://github-readme-stats-ochre-tau-67.vercel.app/api?username=Ozunaluis12&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ozunaluis12&layout=compact&theme=transparent&hide_border=true&langs_count=10)
+![Top Langs](https://github-readme-stats-ochre-tau-67.vercel.app/api/top-langs/?username=Ozunaluis12&layout=compact&theme=transparent&hide_border=true&langs_count=10&count_private=true)
 

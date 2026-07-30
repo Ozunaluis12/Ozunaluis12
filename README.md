@@ -38,13 +38,13 @@ Me gusta transformar ideas en soluciones funcionales, explorar nuevas tecnologí
 
 ## Las estadisticas del repositorio
 
-![Luis Ozuna GitHub stats](https://github-readme-stats-ochre-tau-67.vercel.app/api?username=Ozunaluis12&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Luis Ozuna GitHub stats](https://github-readme-stats-ochre-tau-67.vercel.app/api?username=Ozunaluis12&show_icons=true&theme=transparent&hide_border=true&count_private=true&cb=2)
 
-![Top Langs](https://github-readme-stats-ochre-tau-67.vercel.app/api/top-langs/?username=Ozunaluis12&layout=compact&theme=transparent&hide_border=true&langs_count=10&count_private=true)
+![Top Langs](https://github-readme-stats-ochre-tau-67.vercel.app/api/top-langs/?username=Ozunaluis12&layout=compact&theme=transparent&hide_border=true&langs_count=10&count_private=true&cb=2)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ozunaluis12&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ozunaluis12&theme=transparent&hide_border=true&cb=2)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ozunaluis12&theme=transparent&hide_border=true&bg_color=00000000)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ozunaluis12&theme=transparent&hide_border=true&bg_color=00000000&cb=2)
 
-![Trophies](https://github-trophy.vercel.app/?username=Ozunaluis12&theme=onedark&no-frame=true&row=2&column=4)
+![Trophies](https://github-trophy.vercel.app/?username=Ozunaluis12&theme=onedark&no-frame=true&row=2&column=4&cb=2)
 
